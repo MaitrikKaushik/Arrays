@@ -17,3 +17,5 @@ int main(int argc, char const *argv[])
     printf("The average marks obtained by students in the class is: %d", avg);
     return 0;
 }
+
+
